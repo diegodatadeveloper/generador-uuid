@@ -1,2 +1,2 @@
 # generador-uuid
-a samll NodeJs app
+an small NodeJs app
